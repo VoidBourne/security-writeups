@@ -96,4 +96,4 @@ Redacted above — omitted here in line with HTB's guidance on not posting flags
 
 ## Takeaways
 
-This box taught me about SMB security — specifically why null sessions are a real-world risk — and gave me hands-on practice with the enumeration and connection commands (`smbclient`) used to access and browse an SMB share.
+This box taught me about SMB security — specifically why null sessions are a real-world risk, and gave me hands-on practice with the enumeration and connection commands (`smbclient`) used to access and browse an SMB share.

@@ -16,6 +16,8 @@ I'm currently building foundational offensive security skills through structured
 | Machine | Difficulty | Skill area | Writeup |
 |---|---|---|---|
 | Dancing | Easy | SMB enumeration | [`htb/dancing-smb`](./htb/dancing-smb) |
+| Reactor | Easy | 
+|Cap | Easy | Linux privesc | [`htb/cap`](./htb/cap) |
 
 ### TCM Security
 
